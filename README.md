@@ -1,2 +1,5 @@
 # badtenants-and-byebyeestateagents
-Analysis and Design of BadTenants and ByeByeEstateAgents
+Analysis and design of BadTenants and ByeByeEstateAgents
+
+www.badtenants.co.uk
+www.byebyeestateagents.com
