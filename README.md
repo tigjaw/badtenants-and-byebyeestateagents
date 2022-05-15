@@ -1,5 +1,5 @@
 # badtenants-and-byebyeestateagents
-Analysis and review of BadTenants and ByeByeEstateAgents website funcitonality, structure, and design.
+Analysis, refactoring and design changes for BadTenants and ByeByeEstateAgents websites.
 
 www.badtenants.co.uk
 
