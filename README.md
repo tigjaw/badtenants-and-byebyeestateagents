@@ -6,9 +6,9 @@ www.badtenants.co.uk
 www.byebyeestateagents.com
 
 ## BadTenants
-### Original
+### Original (Class/Object Diagram)
 ![site-map-original](https://user-images.githubusercontent.com/104085258/168489518-5ecb73af-38b2-4eb0-b3f6-f0c627e767c0.png)
-### Refactored & Redesigned
+### Refactored & Redesigned (Class/Object Diagram)
 ![site-map-refactored](https://user-images.githubusercontent.com/104085258/168489525-bc582d98-def2-4f2a-adc6-ee44e47188df.png)
 
 ## ByeByeEstateAgents
